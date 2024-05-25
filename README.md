@@ -7,7 +7,7 @@ Junior Software Developer | Web Developer | Full-Stack Developer
 Ferin is a fresh graduate Full-Stack Web Developer who seamlessly integrates design and coding. She excels in HTML, CSS, Typescript, JavaScript, Bootstrap.js, Node.js, Express.js, NEXT.js, and React. Her skills extend to software design principles and languages like C/C++, Python. Ferin is also proficient in design tools such as Adobe Suite (Photoshop, Illustrator, InDesign) and Figma, along with Microsoft Azure, Database, and Linux/Unix environments. Committed to creating impactful web solutions, she actively seeks collaborative opportunities to deliver user-centric experiences.
 
 * 🌍  I'm based in Toronto, ON, CAN
-* 🧠  I'm learning React and NEXT.js
+* 🧠  I'm learning React, NEXT.js, Swift and Kotlin
 
 ### Skills
 
