@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Software Developer | Mobile Application Developer | Full-Stack Developer
 ----------------------------------------------------------------
 
-Ferin is a fresh graduate Full-Stack Web Developer who seamlessly integrates design and coding. She excels in HTML, CSS, Typescript, JavaScript, Bootstrap.js, Node.js, Express.js, NEXT.js, and React. Her skills extend to software design principles and languages like C/C++, Python. Ferin is also proficient in design tools such as Adobe Suite (Photoshop, Illustrator, InDesign) and Figma, along with Microsoft Azure, Database, and Linux/Unix environments. Committed to creating impactful web solutions, she actively seeks collaborative opportunities to deliver user-centric experiences.
+Ferin is a Software Developer who seamlessly integrates design and coding and interested in AEC Tech. She excels in HTML, CSS, React Typescript, JavaScript, Node.js, Express.js, NEXT.js, Swift and Kotlin. Her skills extend to software design principles and languages like C/C++, Python. Ferin is also proficient in design tools such as Adobe Suite (Photoshop, Illustrator, InDesign) and Figma, along with Microsoft Azure, AWS, NoSQL, SQL, and Linux/Unix environments. Committed to creating impactful web solutions, she actively seeks collaborative opportunities to deliver user-centric experiences.
 
 * 🌍  I'm based in Toronto, ON, CAN
-* 🧠  I'm learning React, Typscript, NEXT.js
+* 🧠  I'm learning C#, Java(Spring boot)
 
 ### Skills
 
