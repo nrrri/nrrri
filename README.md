@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ferin Chowarun
 ======================================================================================================================================
 
-Junior Software Developer | Mobile Application Developer | Full-Stack Developer
+Software Developer | Mobile Application Developer | Full-Stack Developer | AEC Tech
 ----------------------------------------------------------------
 
 Ferin is a Software Developer who seamlessly integrates design and coding and interested in AEC Tech. She excels in HTML, CSS, React Typescript, JavaScript, Node.js, Express.js, NEXT.js, Swift and Kotlin. Her skills extend to software design principles and languages like C/C++, Python. Ferin is also proficient in design tools such as Adobe Suite (Photoshop, Illustrator, InDesign) and Figma, along with Microsoft Azure, AWS, NoSQL, SQL, and Linux/Unix environments. Committed to creating impactful web solutions, she actively seeks collaborative opportunities to deliver user-centric experiences.
