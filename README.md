@@ -4,7 +4,7 @@
 
 I'm a **Software Developer with an architectural design background**, interested in building software for the **Architecture, Engineering & Construction (AEC)** industry.
 
-I enjoy working at the intersection of **design, geospatial data, and software engineering**, with a focus on building practical, user-centered applications. My current experience includes developing **React/TypeScript applications, REST APIs, geospatial interfaces, and full-stack projects**.
+I enjoy working at the intersection of **design, geospatial data, and software engineering**, with a focus on building practical, user-centered applications. My experience includes developing **React/TypeScript applications, REST APIs, geospatial interfaces, and full-stack projects**.
 
 My background in architecture gives me a strong understanding of spatial data, design workflows, BIM, and the challenges AEC professionals face — which I now bring into software development.
 
@@ -26,35 +26,36 @@ My background in architecture gives me a strong understanding of spatial data, d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
 </p>
 
-### Backend & Databases
+### Backend
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
 </p>
 
-### Cloud, Tools & Other
+### Databases & Cloud
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="40" alt="AWS" />
+</p>
+
+### Tools & Other Technologies
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="40" alt="AWS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
 </p>
 
 ### AEC & Design
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-</p>
 
 **AEC:** Revit · AutoCAD · Rhino · Grasshopper · BIM · Geospatial Data
 
@@ -62,13 +63,23 @@ My background in architecture gives me a strong understanding of spatial data, d
 
 ---
 
+## 🤖 Currently Learning
+
+* **Java & Spring Boot** — backend development and RESTful APIs
+* **C#/.NET** — enterprise and AEC software development
+* **AI-assisted development** — exploring **Claude Code** and AI-powered software development workflows
+* **3D Web Development** — Three.js · React Three Fiber · WebGL
+* **AEC Technology** — BIM, geospatial applications, design automation, and digital construction
+
+---
+
 ## 🚀 What I'm Working On
 
 * Building **full-stack applications** with React, TypeScript, Java, Spring Boot, and PostgreSQL
-* Exploring **AEC technology and construction software**
-* Developing applications that connect **geospatial data, design workflows, and software**
-* Learning **C#/.NET** and **Java/Spring boot** for AEC and enterprise software development
-* Exploring **3D web technologies** including Three.js and React Three Fiber
+* Developing **AEC-focused software and portfolio projects**
+* Exploring applications that connect **geospatial data, design workflows, and software**
+* Learning how **AI coding agents such as Claude Code** can improve software development workflows
+* Exploring **3D web technologies** and interactive spatial applications
 
 ---
 
@@ -96,18 +107,19 @@ An interactive 3D residential concept built for the web.
 
 ## 🎓 Background
 
-**Architecture → Software Development**
+### Architecture → Software Development
 
 My background in architecture and design shaped the way I approach software: understanding complex requirements, modeling systems and constraints, and designing tools around how people actually work.
 
-I'm particularly interested in applying software engineering to problems in:
+I'm particularly interested in applying software engineering to:
 
-* AEC Technology
-* BIM & Digital Construction
-* Geospatial Applications
-* Design Automation
-* 3D Web Applications
-* Architecture & Engineering Software
+* **AEC Technology**
+* **BIM & Digital Construction**
+* **Geospatial Applications**
+* **Design Automation**
+* **3D Web Applications**
+* **Architecture & Engineering Software**
+* **AI-assisted AEC workflows**
 
 ---
 
@@ -121,5 +133,3 @@ I'm particularly interested in applying software engineering to problems in:
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
 </p>
-
----
