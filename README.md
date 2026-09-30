@@ -123,17 +123,3 @@ I'm particularly interested in applying software engineering to problems in:
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-<a href="https://github.com/nrrri">
-<img src="https://github-readme-stats.vercel.app/api?username=nrrri&show_icons=true&hide_border=true" alt="Ferin's GitHub stats" />
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/nrrri">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrrri&layout=compact&hide_border=true" alt="Top Languages" />
-</a>
-</p>
