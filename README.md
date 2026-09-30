@@ -1,30 +1,139 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ferin Chowarun
-======================================================================================================================================
+# Hi, I'm Ferin Chowarun 👋
 
-Software Developer | Mobile Application Developer | Full-Stack Developer | AEC Tech
-----------------------------------------------------------------
+### Software Developer | AEC Technology | Full-Stack Development
 
-Ferin is a Software Developer who seamlessly integrates design and coding and interested in AEC Tech. She excels in HTML, CSS, React Typescript, JavaScript, Node.js, Express.js, NEXT.js, Swift and Kotlin. Her skills extend to software design principles and languages like C/C++, Python. Ferin is also proficient in design tools such as Adobe Suite (Photoshop, Illustrator, InDesign) and Figma, along with Microsoft Azure, AWS, NoSQL, SQL, and Linux/Unix environments. Committed to creating impactful web solutions, she actively seeks collaborative opportunities to deliver user-centric experiences.
+I'm a **Software Developer with an architectural design background**, interested in building software for the **Architecture, Engineering & Construction (AEC)** industry.
 
-* 🌍  I'm based in Toronto, ON, CAN
-* 🧠  I'm learning C#, Java(Spring boot)
+I enjoy working at the intersection of **design, geospatial data, and software engineering**, with a focus on building practical, user-centered applications. My current experience includes developing **React/TypeScript applications, REST APIs, geospatial interfaces, and full-stack projects**.
 
-### Skills
+My background in architecture gives me a strong understanding of spatial data, design workflows, BIM, and the challenges AEC professionals face — which I now bring into software development.
 
+🌎 Based in **Canada**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
 </p>
 
+### Backend & Databases
 
-### Socials
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/nrrri" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/narisorn-chowarun/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Cloud, Tools & Other
 
-### Badges
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="40" alt="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
+</p>
 
-<b>My GitHub Stats</b>
+### AEC & Design
 
-<a href="http://www.github.com/nrrri"><img src="https://github-readme-stats.vercel.app/api?username=nrrri&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="nrrri's GitHub stats" /></a>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+</p>
 
-<a href="https://github.com/nrrri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrrri&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**AEC:** Revit · AutoCAD · Rhino · Grasshopper · BIM · Geospatial Data
+
+**Design:** Figma · Adobe Photoshop · Illustrator · InDesign
+
+---
+
+## 🚀 What I'm Working On
+
+* Building **full-stack applications** with React, TypeScript, Java, Spring Boot, and PostgreSQL
+* Exploring **AEC technology and construction software**
+* Developing applications that connect **geospatial data, design workflows, and software**
+* Learning **C#/.NET** and **Java/Spring boot** for AEC and enterprise software development
+* Exploring **3D web technologies** including Three.js and React Three Fiber
+
+---
+
+## 📌 Featured Projects
+
+### 🏗️ AEC Project Tracker
+
+A full-stack project management application designed around AEC project workflows.
+
+**Tech:** React · TypeScript · Java · Spring Boot · PostgreSQL
+
+### 📊 Express Entry Tracker
+
+A web application for exploring and visualizing Canadian Express Entry draw data.
+
+**Tech:** Next.js · TypeScript · PostgreSQL · Chart.js · REST APIs
+
+### 🏠 Mind Home 3D
+
+An interactive 3D residential concept built for the web.
+
+**Tech:** React · Three.js · React Three Fiber · Vite
+
+---
+
+## 🎓 Background
+
+**Architecture → Software Development**
+
+My background in architecture and design shaped the way I approach software: understanding complex requirements, modeling systems and constraints, and designing tools around how people actually work.
+
+I'm particularly interested in applying software engineering to problems in:
+
+* AEC Technology
+* BIM & Digital Construction
+* Geospatial Applications
+* Design Automation
+* 3D Web Applications
+* Architecture & Engineering Software
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/nrrri">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/narisorn-chowarun/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+<a href="https://github.com/nrrri">
+<img src="https://github-readme-stats.vercel.app/api?username=nrrri&show_icons=true&hide_border=true" alt="Ferin's GitHub stats" />
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/nrrri">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrrri&layout=compact&hide_border=true" alt="Top Languages" />
+</a>
+</p>
