@@ -55,12 +55,6 @@ My background in architecture gives me a strong understanding of spatial data, d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
 </p>
 
-### AEC & Design
-
-**AEC:** Revit · AutoCAD · Rhino · Grasshopper · BIM · Geospatial Data
-
-**Design:** Figma · Adobe Photoshop · Illustrator · InDesign
-
 ---
 
 ## 🤖 Currently Learning
@@ -68,7 +62,7 @@ My background in architecture gives me a strong understanding of spatial data, d
 * **Java & Spring Boot** — backend development and RESTful APIs
 * **C#/.NET** — enterprise and AEC software development
 * **AI-assisted development** — exploring **Claude Code** and AI-powered software development workflows
-* **3D Web Development** — Three.js · React Three Fiber · WebGL
+* **3D Web Development** — Three.js · React Three Fiber · WebGL · WebGPU
 * **AEC Technology** — BIM, geospatial applications, design automation, and digital construction
 
 ---
@@ -126,10 +120,7 @@ I'm particularly interested in applying software engineering to:
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/nrrri">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/narisorn-chowarun/">
+<a href="https://www.linkedin.com/in/ferin-chowarun/">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
 </p>
